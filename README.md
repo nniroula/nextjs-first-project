@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 1. Routing and Navigation = <Link />
 2. Metadata
 3. Styling - Tailwind CSS
-4. Default image tage <Image />
+4. Default image tag in next.js ``<Image />``
 5. Client vs Server Components - 'use client' and 'use server'
     -- GET Request and fetch("URL"), fetch("URL", {cache: 'no-store}, fetch("URL", {next: {revalidate: 10}}))
 6. Server actions (POST/PUT/DELETE)
